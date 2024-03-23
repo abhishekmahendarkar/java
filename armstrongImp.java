@@ -17,6 +17,5 @@ public class armstrongImp {
         }else{
             System.out.println("not armstrong number");
         }
-        sc.close();
     }
 }
